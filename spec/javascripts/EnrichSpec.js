@@ -92,7 +92,7 @@ describe("Enrich", function(){
       });
     });
 
-    describe("domLoaded", function(){
+    describe("#domLoaded", function(){
       it("should run all callbacks with document", function(){
         var returned;
         subject.add("one",function(passed){ returned = passed; });
