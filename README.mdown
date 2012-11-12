@@ -1,4 +1,4 @@
-Enrich
+Enrich [![Build status](https://secure.travis-ci.org/theozaurus/enrich-js.png)](http://travis-ci.org/theozaurus/enrich-js)
 ======
 
 Enrich is a very small library designed to allow code that enhances the DOM to
